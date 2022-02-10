@@ -1,6 +1,6 @@
 # Smart List
 
-Smart List is an app that auto sorts list items using api calls and a custom sorting algorithm. Built with Express.js, SASS, jQuery, EJS, Ajax Google Books API, IMDB API, and Yelp API.
+Smart List is an app that auto sorts list items using api calls and a custom sorting algorithm. Built with Express.js, SASS, jQuery, EJS, Ajax, Google Books API, IMDB API, and Yelp API.
 
 ---
 
